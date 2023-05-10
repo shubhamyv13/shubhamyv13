@@ -20,7 +20,7 @@ I am an aspiring Full Stack Developer.
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://shubhamyv13.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/shubhamyv13?tab=repositories)**
-- 🪢 Know more about me **[My Resume]()**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1htZmDTAQgndTA8XWl5X_fn_EEtqJDjq8/view?usp=share_link)**
 -  💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
 - 📫 How to reach me **shubhamdv13@gmail.com**
 
